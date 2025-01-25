@@ -10,7 +10,7 @@ Este projeto consiste em um script em Python que realiza automação de tarefas 
 - Ajuste o caminho do arquivo Excel (Produtos.xlsx) contendo os dados dos produtos.
 - Execute o script Python e siga as instruções na tela, sem interferir no computador durante a automação.
 
-# Contribuindo para <nome_do_projeto>
+# Contribuindo para o projeto
 1. Para contribuir com <nome_do_projeto>, siga estas etapas:
 2. Bifurque este repositório.
 3. Crie um branch: git checkout -b <nome_branch>.
